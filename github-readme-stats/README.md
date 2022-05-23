@@ -7,3 +7,5 @@
 ## Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honyanya&theme=dark)
+
+![Most Used Languages compact](https://github-readme-stats.vercel.app/api/top-langs/?username=honyanya&theme=dark&layout=compact)
